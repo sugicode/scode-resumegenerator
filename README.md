@@ -1,8 +1,8 @@
-# Hi there 👋, I'm [SugiCode]  
+# Hi there 👋, [CV Generator]  
 
 A CV generator (Curriculum Vitae generator) is a tool or software that helps users automatically create professional CVs or resumes. It usually provides templates, formatting, and guided input fields so users only need to fill in their personal details, work experience, skills, and education background. The system then generates a structured and polished CV in a downloadable format (PDF, DOCX, etc.).
-
 Here’s a short explanation in English about a CV generator:
+
 ---
 
 ## 👨‍💻 About CV/Resume Generator  
